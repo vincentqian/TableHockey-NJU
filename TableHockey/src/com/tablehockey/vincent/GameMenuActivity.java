@@ -27,7 +27,7 @@ public class GameMenuActivity extends Activity{
 	
 	@Override
 	protected void onStop(){
-		Log.d(TAG, "********Stopping...");
+		Log.d(TAG, "*********Stopping...");
 		super.onStop();
 	}
 }
